@@ -1,0 +1,13 @@
+/var
+/tmp
+/.idea
+/.git
+*.phar
+*.swp
+*.log
+*.tmp
+*.bak
+*.css
+*.map
+*.out
+.DS_Store
